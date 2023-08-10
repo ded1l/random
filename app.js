@@ -55,5 +55,5 @@ var randfor=Math.floor(Math.random()*ideasforwho.length);
 var idea=ideas[randomidea];
 var people=ideasforwho[randfor];
 document.write ("<h1> A idea for an app is: "+idea+" for "+people+"</h1>");
-var mybutton= document.getElementById("b");
+
 
