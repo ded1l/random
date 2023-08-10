@@ -9,13 +9,7 @@ h2{
     font-size: 30px;
    
 }
-nav{
-    font-size: smaller;
-    justify-content: start;
-    align-items:start;
-  
-    
-}
+
 section{
    
     display: flex;
