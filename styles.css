@@ -1,9 +1,32 @@
 h1{
    color: white;
     text-align: center;
+   font-size: 50px;
+    }
+h2{
+    color: white;
+    text-align: center;
+    font-size: 30px;
+   
+}
+nav{
+    font-size: smaller;
+    justify-content: start;
+    align-items:start;
+  
+    
+}
+section{
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 6%;
+    flex-direction: column;
+    margin: 0 auto;
+   
 }
 button{
- 
 
     background-color: rgb(48, 131, 199);
     color: white;
@@ -14,9 +37,11 @@ button{
     cursor: pointer;
 }
 body{
-  
-    text-align: center;
+    display: flex;
+
     font-family: Arial, Helvetica, sans-serif;
     background-color: rgb(48, 131, 199);
     height: 600px;
+
+
 }
