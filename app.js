@@ -36,7 +36,7 @@ var ideasforwho=[
    "couples",   
    "needy people",
    "getting movie recommendations",
-   "shopping",
+  
    "gamers",
    "writers",
    "athletes",
